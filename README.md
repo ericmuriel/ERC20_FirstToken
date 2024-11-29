@@ -33,8 +33,7 @@ In addition, a mock USDC token (MockUSDC) was deployed to simulate real-world tr
 ## 📂 Repository Structure  
 
 - `contracts/`: Contains the Solidity smart contracts for EMD and MockUSDC.  
-- `scripts/`: Deployment scripts for the smart contracts.  
-- `test/`: Unit tests for the smart contracts.  
+- `scripts/`: Deployment scripts for the smart contracts.
 
 ---
 
